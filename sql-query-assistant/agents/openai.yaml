@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Query Assistant"
+  short_description: "Write and optimize SQL across major databases."
+  default_prompt: "Use $sql-query-assistant to write, debug, and optimize a SQL query with assumptions and validation checks."
